@@ -47,11 +47,10 @@ class C : public B,public D
         }
 };
 int main(){
-       B aa;
        C bb;
        bb.getX();
        bb.sum();
        bb.getT();
-       bb.maximum();
        bb.power();
+       bb.maximum();
 }

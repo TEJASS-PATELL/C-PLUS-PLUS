@@ -18,8 +18,7 @@ class B{
         cin>>y;
     }
 };
-class C : public A, public B
-{
+class C : public A, public B{
     int z;
     public:
     void sum(){
