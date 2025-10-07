@@ -29,6 +29,7 @@ class C : public B // inherit B
         y = z;
         cout<<"The value of x is : "<<x<<endl;
         cout<<"The value of y is : "<<y<<endl;
+        cout<<"The value of z is : "<<z<<endl;
     }
 };
 int main(){
