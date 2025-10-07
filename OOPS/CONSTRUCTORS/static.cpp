@@ -36,5 +36,6 @@ int main(){
     StaticLearn S3(22, "Prince", 160000);
     S1.display();
     S2.display();
+    S1.accessStaticVariable();
 }
 
