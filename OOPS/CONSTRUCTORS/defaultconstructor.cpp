@@ -4,6 +4,7 @@ class demo{
     int x,y;
     public:
            demo(){   // default constructor and it is automatically invoked 
+            cout<<"Enter the value of x: ";
             cin>>x;
             y=7;
            }    
